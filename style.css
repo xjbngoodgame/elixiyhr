@@ -51,42 +51,4 @@ button:hover {
   background-color: #666;
 }
 
-body.light {
-  background-color: #f9f9f9;
-  color: #000000;
-}
 
-body.light .subtext {
-  color: #333333;
-}
-
-body.light a {
-  color: #3e98ff;
-}
-
-body.light a:hover {
-  color: #63acff;
-}
-
-body.light button {
-  background-color: #ddd;
-  color: #000;
-}
-
-body.light button:hover {
-  background-color: #bbb;
-}
-
-.theme-toggle {
-  position: absolute;
-  top: 15px;
-  right: 20px;
-  font-size: 22px;
-  cursor: pointer;
-  user-select: none;
-  transition: transform 0.2s;
-}
-
-.theme-toggle:hover {
-  transform: scale(1.2);
-}
